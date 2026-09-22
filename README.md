@@ -1,5 +1,11 @@
 # Volatility Surface and Option Pricing Site
 
+In this project I would like to highlight that. This Streamlit site preserves `Generate_volatility_surface.ipynb` unchanged and
+turns its complete workflow into an interactive website. The same page also
+uses the surface to price different option types with finite differences and
+Monte Carlo. 
+
+Source: youtube "‘Quant’ify Your Career" 
 
 ## Project files
 
